@@ -1,6 +1,8 @@
 👋 Hi, I’m @pierretotale
 
 I'm a mechanical engineer with an interest in scientific computing and data visualization.
+Regularly making code crash in Julia, and making baby steps in Rust.
+
 Oh, and I like to automate stuff.
 
 🇧🇪 👨‍🔧
