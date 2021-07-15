@@ -2,7 +2,7 @@
 
 I'm a mechanical engineer with an interest in scientific computing and data visualization.
 
-Regularly making code crash in Julia, while taking baby steps in Rust.
+Using Julia as a daily driver, while taking baby steps in Rust.
 
 Oh, and I like to automate stuff.
 
